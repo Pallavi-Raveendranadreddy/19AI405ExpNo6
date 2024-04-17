@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: S.JAIGANESH </h3>
-<h3>Reg no : 212222240037</h3>
+<h3>Name: VALASAREDDY PALLAVI </h3>
+<h3>Reg no : 212221240059</h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
